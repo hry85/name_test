@@ -1,0 +1,2 @@
+I am learning the Java language in this course. 
+So far we learned the basics of java, sql and JDBC.
